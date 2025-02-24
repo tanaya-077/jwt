@@ -1,0 +1,6 @@
+POST /api/register
+POST /api/login
+GET /api/user
+GET /api/admin
+GET /api/logout
+
